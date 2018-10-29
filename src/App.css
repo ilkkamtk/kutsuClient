@@ -1,0 +1,23 @@
+main {
+    padding: 1rem;
+}
+
+.tab-content h3 {
+    padding-top: 1rem;
+}
+
+.last-tab{
+    position: relative;
+}
+
+.last-tab button:first-of-type {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.last-tab button:last-of-type {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
